@@ -75,6 +75,3 @@ Feel free to fork this repository and submit a pull request.
 
 ---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/mini-projects-collection.git
